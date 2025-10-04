@@ -1,0 +1,20 @@
+# виртуальное окружение
+.venv/
+venv/
+
+# кэш питона
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# файлы данных
+vacancies.json
+
+# тестовые отчёты
+htmlcov/
+.coverage
