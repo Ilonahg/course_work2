@@ -94,10 +94,4 @@ GitHub: https://github.com/Ilonahg/course_work2.git
 
  
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: hh.ru API integration project"
-git branch -M main
-git remote add origin https://github.com/<твой-логин>/<название-репозитория>.git
-git push -u origin main
+ 
