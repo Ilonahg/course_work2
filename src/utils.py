@@ -1,4 +1,5 @@
-from vacancy import Vacancy
+from src.vacancy import Vacancy
+
 
 
 def sort_vacancies(vacancies: list[Vacancy]):

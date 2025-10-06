@@ -1,7 +1,7 @@
 import json
 import os
 from abc import ABC, abstractmethod
-from vacancy import Vacancy
+from src.vacancy import Vacancy
 
 
 class AbstractSaver(ABC):
