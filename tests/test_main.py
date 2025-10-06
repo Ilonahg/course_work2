@@ -1,10 +1,9 @@
-import os
 import json
 import pytest
-from api import HeadHunterAPI
-from vacancy import Vacancy
-from file_saver import JSONSaver
-from utils import sort_vacancies, filter_vacancies, get_top_vacancies
+from src.api import HeadHunterAPI
+from src.vacancy import Vacancy
+from src.file_saver import JSONSaver
+from src.utils import sort_vacancies, filter_vacancies, get_top_vacancies
 
 
 @pytest.fixture
